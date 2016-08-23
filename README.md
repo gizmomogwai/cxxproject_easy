@@ -1,9 +1,10 @@
 # Easy Cxxproject
 
-This gem just is a convinient gem to install all needed plugins to get a typical project going.
+Convinient gem to install cxxproject together with the rake frontent cxx and
+the gcc goolchain.
 
 ## Installation
 
-Use this to get cxxproject, cxx together with gcc support and the most useful plugins.
+Use this to get cxxproject, cxx together with gcc support.
 
     $ gem install easy-cxx
